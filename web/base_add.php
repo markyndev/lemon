@@ -1,7 +1,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Lemon - Registry</title>
-<link rel="icon" type="imagem/jpg" href="icon.png" />
+<link rel="icon" type="imagem/jpg" href="icone.png" />
 
 <style>
 	@import url(https://fonts.googleapis.com/css?family=Pacifico);
@@ -68,7 +68,7 @@ hr {
 <center>
 	<br>
 <div class="header">
-<img src="icon.png">
+<img src="icone.png">
 </div>
 
 </center>
