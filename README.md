@@ -28,7 +28,7 @@ Exemplo de um pacote já montado:
       "info": "A non-functional application for example",
       "link": "https://cloud.algumacoisa.com/files/script.zip"
     } 
-  ]
+  
 ```
 <sub><sup>OBS: TODOS LINKS PARA OS PACOTES DEVEM SER EM .ZIP</sub></sup>
 
