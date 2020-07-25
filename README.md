@@ -4,7 +4,16 @@
 # Lemon - Project
 
 Projeto ultra simples de um gerenciador de pacotes e repositorios baseado em node.js
+## Como baixar um pacote?
 
+Use o comando abaixo:
+```
+node index.js install nomedopacote
+```   
+Exemplo: 
+```
+node index.js install base
+```
 
 ## Como adicionar um pacote?
 
