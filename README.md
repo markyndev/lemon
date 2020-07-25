@@ -6,7 +6,7 @@
 Projeto ultra simples de um gerenciador de pacotes e repositorios baseado em node.js
 
 
-# Como adicionar um pacote?
+### Como adicionar um pacote?
 
 Lembrando que o projeto ainda está em beta, mas caso queira adicionar um script interessante [Clique Aqui](http://juiceancap.hopto.org/lemon/) e leia o footer da pagina para entender como funciona.
 
