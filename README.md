@@ -26,6 +26,6 @@ Exemplo de um pacote já montado:
 ## Conquistas do projeto
  - [x] Automatizar a postagem de pacotes (Via [SITE](http://juiceancap.hopto.org/lemon/))
  - [x] Criar sistema de download simples
- - [] Sistema de atualização
- - [] Sistema de dependencias
- - [] Nuvem propria.
+ - [ ] Sistema de atualização
+ - [ ] Sistema de dependencias
+ - [ ] Nuvem propria.
