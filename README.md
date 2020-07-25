@@ -24,5 +24,5 @@ Exemplo de um pacote já montado:
 <sub><sup>OBS: TODOS LINKS PARA OS PACOTES DEVEM SER EM .ZIP</sub></sup>
 
 ## Conquistas do projeto
- - []
+ - [x] Automatizar a postagem de pacotes (Via [SITE](http://juiceancap.hopto.org/lemon/))
  - [x]
