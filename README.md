@@ -1,2 +1,3 @@
-# lemon
- Ultra simple project of a package manager and repositories in nodejs.
+# Lemon - Project
+<img src="icone.png">
+Projeto ultra simples de um gerenciador de pacotes e repositorios baseado em node.js
