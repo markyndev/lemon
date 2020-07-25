@@ -22,3 +22,7 @@ Exemplo de um pacote já montado:
   ]
 ```
 <sub><sup>OBS: TODOS LINKS PARA OS PACOTES DEVEM SER EM .ZIP</sub></sup>
+
+## Conquistas do projeto
+-[]
+-[x]
