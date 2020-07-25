@@ -17,8 +17,8 @@ Exemplo de um pacote já montado:
       "appname": "Base-Lemon",
       "version": "1.0",
       "info": "A non-functional application for example",
-      "link": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/APK_format_icon.png/600px-APK_format_icon.png"
+      "link": "https://cloud.algumacoisa.com/files/script.zip"
     } 
   ]
-
 ```
+OBS: TODOS LINKS PARA OS PACOTES DEVEM SER EM .ZIP
