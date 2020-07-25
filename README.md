@@ -21,4 +21,4 @@ Exemplo de um pacote já montado:
     } 
   ]
 ```
-^OBS: TODOS LINKS PARA OS PACOTES DEVEM SER EM .ZIP^
+<sub><sup>OBS: TODOS LINKS PARA OS PACOTES DEVEM SER EM .ZIP</sub></sup>
