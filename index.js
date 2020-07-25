@@ -29,9 +29,8 @@ download(pck.link, pck.file, function(){
   console.log(`[✔] ${pck.appname} is downloaded successfully`);
 });
     break;
-case 'version':
-    console.log(myArgs[1], 'is really cool.');
-    break;
+
 default:
-    console.log('Sorry, that is not something I know how to do.');
+    console.log('You need to put a real argument');
+       break;
 }
