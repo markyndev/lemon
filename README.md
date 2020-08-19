@@ -33,7 +33,7 @@ Exemplo de um pacote já montado:
 <sub><sup>OBS: TODOS LINKS PARA OS PACOTES DEVEM SER EM .ZIP</sub></sup>
 
 ## Conquistas do projeto
- - [x] Automatizar a postagem de pacotes (Via [SITE](http://juiceancap.hopto.org/lemon/))
+ - [x] Automatizar a postagem de pacotes
  - [x] Criar sistema de download simples
  - [ ] Sistema de atualização
  - [ ] Sistema de dependencias
